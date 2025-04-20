@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:insta_video_player/screens/drag/drag_screen.dart';
+import 'package:insta_video_player/view/drag/drag_screen.dart';
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));
